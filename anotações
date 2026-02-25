@@ -1,0 +1,9 @@
+Caso tenha uma operação matematica no codigo, use () para da prioridade
+a primeira conta que deseja fazer. ex(5+15)/4
+---------------------------------------------------------------------------
+Posso criar uma variavel let/var porém sempre que eu for atualizar ela
+não preciso criar outra let/var apenas usar o nome que foi atribuido a
+ela.
+---------------------------------------------------------------------------
+(==)(!=)Coverte para compara
+(===)(!==)Esse compara o tipo e conteudo
